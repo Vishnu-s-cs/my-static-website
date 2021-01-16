@@ -211,7 +211,7 @@ a.scroll.bnr-btn i{
 /* banner */
 
 .banner-w3pvt {
-	background: url(https://github.com/Vishnu-s-cs/my-static-website/blob/main/images/IMG_20191117_095159_910.jpg) no-repeat center;
+	background: url(https://github.com/Vishnu-s-cs/my-static-website/blob/main/images/IMG_20191117_095159_910.jpg) no-repeat 0 0;
 	background-size: cover;
     position: relative;
    
