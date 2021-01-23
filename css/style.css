@@ -212,18 +212,14 @@ a.scroll.bnr-btn i{
 
 .banner-w3pvt {
 	
-        background: url(https://lh3.googleusercontent.com/jkLzr_pGdSpbxAKtE12CV0w60fhbzrtxtpVJLPGnxKwqBzvIqV0sXHdAWaZppmcXbt-3PuCEmFQFVqpHgjGvJATeloRfiTnltD0yeY-fCxwo9yyP9-eezefDWjnWwUVjdX7oHc5MY2EBjzM3NdT44G1nf0f8d3EnRorvB8nIgtNM6r21j8dT-FZ6xfQebzp-CGePWn4wojla0OeunXSa4lDW6ymYEY-hnjWdbEhI7vFV55uietFPnzelr2CioO_f79RW0XsHzXYDzQiloyiJbmJ4rn86um7tSStTo632DKi0SHUApTjvx-TCS5S-73CGymAuRH1ahAlIpQ1ip3xmjy7cGt0HauEusuFUvV_Ntm0ahC2sM6h7bs2fkKegkGb2EIh9emfhGsY7DyLC4mGqeMcFeP-3de6T0YdGAQvFVGX6QNhnwH2z2FCTPiqeXNTyDzWZDBw4umEU1t9koII0gliX5ZeaVdnOPk8qpmLBkpRz3wVNQ0K2IcQ4a_-ytiG9JFyitdGjrvb2-bq-mff7JNsJEdzpO0Yf1C3_RRixIsLveZ0uM221BONwzQQiAmJ1a7FTusFVi72WllhcsfGw3MSrXCb9dZWRfAmLODo-GdNiUS3OAK1f1oHkzHheyzz2RmBQMPjc1JJKw3ef3C-0h53r1ktmWQbF4q3xXkHSa-j28iSZdxjLubRWLlpb=w663-h884-no?authuser=0) no-repeat 0 0;
-        
+        background: url(https://lh3.googleusercontent.com/msFv004Z-xWu2s24LpqCFJm08O3aYPW5UgJnivHtpt9VBlHB4-7K0hPA8tpkhxPimVQ_OuqzM8YQcgjg3pOQEB0ODFlIN_VdzFGHc6H5nJtpEqHGQGmHPPUrHdSWzPX-N02SbBheODgpCZsVYjvS4p_3o-XofQczioNYgwXiYy4wcvdNorF9-sU448jeQncJ4WQETRJKZvndGn8Tz1KooeDSeh-CIDQM0r5PMudq1zY6ihFteWVaFa7sQmv__CesOpcsG5shgJt2kE5ZrugXE5s1B943hJyQFsILu3w4xVwVd5Ws5TYSc-yRQWN2urkNY8EE8CtTMvtnhodwCRX24KGga27q43o_f-u1gdZq4_RP3-gU0_Z38Oz7No3frOlh_QdYBh5Dz181wCynyui5TMIXEYPfflYWT7rwmGurTmVmtCzDxH82VzJVQx1ZWObIlD7sSOG97dINmSNSJbiqJpjFoZDsAOTZDf-BjEnLbiPUSJxPFdPU5k8qWStj5cL0Oo0wNpfxzAXmapXx1klwYoF1-X0kWGGsHcInIfsHj0UWPpFKqIRGpWvPuBEFkwih4aPeVilTiYTBsHYIhIORjOXwGRZS859vq2SRopLbW2s0aEDSmdl9l5GB5PzmpiIznRCoV88P4RZHXddgl-J06Jy2zvqrAr5GbVa5c5PBm7lF6XNzpZ75dML6GWSa=w716-h951-no?authuser=0) no-repeat 0 0;
+        background-size: cover;
     
-	background-size: cover;
+	
     position: relative;
     }
 
-	background: url(https://github.com/Vishnu-s-cs/my-static-website/blob/main/images/IMG_20191117_095159_910.jpg) no-repeat 0 0;
-	background-size: cover;
-    position: relative;
-   
-}
+
 
 .bnr-txt-w3pvt {
     margin: 12em 0 9em;}
@@ -578,7 +574,7 @@ p.paragraph:after {
 
 /*-- quote --*/
 .quote{
-    background: url(../images/banner.jpg) 0px 0px;
+    background: url(https://lh3.googleusercontent.com/ogw/ADGmqu8e6w-NHEt1k1Es1dVcFXVzCULvEgsPJ3JBmlrGSQ=s32-c-mo) 0px 0px;
     background-size: cover;
     position: relative;
 }
